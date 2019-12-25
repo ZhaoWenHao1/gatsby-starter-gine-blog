@@ -4,14 +4,14 @@ module.exports = {
       resolve: `gatsby-theme-gine-blog`,
       options: {
         configTable:
-            'https://www.notion.so/happy0101/62067c6644194669a9436a524bc71859?v=dcbcf36987c44a4d9fe9b23c17f27287'
+            'https://www.notion.so/happy0101/bd2b4afd240f4fb08caf1b10c27a8fe5?v=82f2913f950847fdb795adfe62279b99'
       }
     },
     {
       resolve: `gatsby-source-notion-database`,
       options: {
         configTable:
-            'https://www.notion.so/happy0101/4025fe82ef124be09a68b012494bd8b3?v=ab3535e0d35640a696afed48d028028a'
+            'https://www.notion.so/happy0101/c25e538627e342cc9d91bd3f4be9e27e?v=5eba2e73e33e4e37b18dfc803544c1e2'
       }
     }
   ],
